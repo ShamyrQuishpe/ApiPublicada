@@ -1,26 +1,25 @@
-# flutter_api
+Publicacion en AMAZON STORE
 
-A new Flutter project.
+Primero nos crearemos una cuenta en AMAZON APPS & SERVICES DEVELOPER PORTAL, una vez que tengamos la cuenta procederemos a agregar una nueva APP (ADD NEW APP)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/22a97a8f-1aac-46d0-ae06-81d34ade9e57)
 
-This project is a starting point for a Flutter application.
+Nos enviara a otra pagina donde deberemos completar los pasos para finalmente poder publicar nuestra app en Amazon Store, el primero de ellos es agregar nuestro archivo en este caso será nuestra APK de nuestro proyecto en flutter.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/66cbbc49-b0a6-45c0-969b-0207b41ce643)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Como segundo paso deberemos elegir para que dispositivos esta diseñada, para que tipo de audiencia va dirigida nuestra app y ademas que tipo de contenido tiene mediante un formulario que nos proporciona este paso.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/ec897c69-7512-46bc-931f-bbb620d0088a)
 
----
-The application has two tabs. In the first tab you can search for a pokemon by name:
+Como tercer paso nos solicita que pongamos el titulo de nuestra APP, una pequeña descripcion, una descripcion larga y ademas, y una pequeña descripcion de como funciona nuestro proyecto. Tambien de manera opcional podemos poner palabras clave. En este mismo paso tambien nos solicitara que agregemos ciertas imagenes que seran tanto para el icono del APP como para visualizar de que trata.
 
-![Captura de pantalla 2024-12-17 001237](https://github.com/user-attachments/assets/1b53f4db-b5ff-4e07-b658-df095596162c)
+![image](https://github.com/user-attachments/assets/04bcf07b-d097-4923-bea7-36092a053ce7)
 
-The second tab displays images of dogs every time you press the load dog image button:
+Finalmente nuestra APP pasa por revision de amazon y nos aprobaran en una fecha estimada.
 
-![Captura de pantalla 2024-12-17 001932](https://github.com/user-attachments/assets/cbf7faf9-937f-4af5-9791-13dabcee845d)
+![image](https://github.com/user-attachments/assets/b13c4b2a-8804-4f13-a809-8eea4d26832b)
 
+Cuando el APP sea aceptada nos mostrara que ya esta disponible en AMAZON STORE. 
+
+![image](https://github.com/user-attachments/assets/2aa730de-70f2-422a-ba1d-39996d186e3f)

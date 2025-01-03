@@ -23,3 +23,11 @@ Finalmente nuestra APP pasa por revision de amazon y nos aprobaran en una fecha 
 Cuando el APP sea aceptada nos mostrara que ya esta disponible en AMAZON STORE. 
 
 ![image](https://github.com/user-attachments/assets/2aa730de-70f2-422a-ba1d-39996d186e3f)
+
+Asi se veria nuestra APP publicada en AMAZON STORE desde el navegador
+
+![image](https://github.com/user-attachments/assets/8b4d42b7-dc7f-437f-9f5d-c4860d58c5f4)
+
+Asi se veria directamente en la AMAZON APPSTORE desde android
+
+![Screenshot_20250103-183318_Amazon Appstore](https://github.com/user-attachments/assets/22ff1e61-8111-4e8e-92ae-22bb1c8fe92d)
